@@ -1,2 +1,3 @@
 # Dende
-MIDI quadruple delay
+MIDI fractal delay
+
